@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 	<head>
-		<title>Esercizio Divina Commedia</title>
+		<title>Simulazione Tenzone Dantesca</title>
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="style.css">
