@@ -27,7 +27,8 @@ let arr = [
 "ditene dove la monatgna giace, \n si' che possibil sia l'andare in suso;\n che' perder tempo a chi piu' sa piu' spiace\".\n", // 7 giorni
 "Come le pecorelle escon dal chiuso\n a una, a due, a tre, e l'altre stanno\n timidette atterrando l'occhio e 'l muso;\n",
 "e cio' che fa la prima, a l'altre fanno,\n addossandosi a lei, s'ella s'arresta,\n semplici e quete, e lo 'mperchè non sanno;\n",
-"si' vid'io muovere a venir la testa\n quella mandra fortunata alotta,\n pudica in faccia e nell'andare onesta.\n"
+"si' vid'io muovere a venir la testa\n quella mandra fortunata alotta,\n pudica in faccia e nell'andare onesta.\n",
+"Come color dinanzi vider rotta\n la luce in terra dal mio destro canto,\n si' che lombra era da me a la rotta,\n"
 ];
 
 let pEstr = document.getElementById("pEstr");
