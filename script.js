@@ -15,7 +15,7 @@ for(let i = 0; i < 4; i++){
 }
 
 function estrazione(){
-	n = Math.floor(Math.random()*arr[c].length);
+	n = Math.floor(Math.random()*(arr[c].length-3));
 	p0.innerHTML = arr[c][n];	
 	pEstr.innerHTML = "Terzina Estratta (n. "+(n+1)+")";
 	for(let i = 1; i < 4; i++){
